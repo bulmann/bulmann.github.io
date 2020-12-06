@@ -1,0 +1,139 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+.social a {
+    text-align: center;
+    width: 48px;
+    height: 48px;
+    float: left;
+    background: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius: 24px;
+    margin: 0 10px 10px 0;
+    text-align: center;
+    padding: 6px;
+    color: #000;
+}
+div a{
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    padding: .8em 1em calc(.8em + 3px);
+    border-radius: 3px;
+    background: rgb(64,199,129);
+    box-shadow: 0 -3px rgb(53,167,110) inset;
+    transition: 0.2s;
+  }
+a:hover { background: rgb(53, 167, 110); }
+a:active {
+  background: rgb(33,147,90);
+  box-shadow: 0 3px rgb(33,147,90) inset;
+}
+        
+.vk {
+  margin-left: 47%;
+}
+.windows {
+margin: 20px;
+} 
+  
+  .body{
+  text-shadow: 1px 1px 1px black,
+  -1px 1px 1px black;
+  border-radius: 0.8%;
+  color: white;
+  background-image: url(img/bg-about.png);
+  background-size: 100%;
+  transition: all .5s;
+  font-family: 'Yeon Sung', cursive;
+}
+
+#header {
+  position: absolute;
+  }
+  
+  .aoaoa {
+    text-decoration: none;
+    outline: none;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0,0,0,.1);
+    transition: .5s;
+  }
+
+H2 {
+  text-align: center;
+  color: #009E8E;
+  text-shadow: 0.7px 0.7px 0.7px rgb(0, 0, 0),
+  0.7px 0.7px 0.7px rgb(0, 0, 0);
+  font-family: 'Yeon Sung', cursive;
+  margin-bottom: 8%;
+  background-image: url(img/bg_about.png);
+  background-size: 99%;
+  transition: all .5s;
+  }
+
+  h2:hover {
+    text-shadow: 0.85px 0.85px 0.85px rgb(0, 0, 0),
+    0.85px 0.85px 0.85px rgb(0, 0, 0);
+  }
+  
+  H3{
+    color: #009E8E;
+    text-shadow: 0.7px 0.7px 0.7px rgb(0, 0, 0),
+    0.7px 0.7px 0.7px rgb(0, 0, 0);
+    font-family: 'Yeon Sung', cursive;
+    text-align: center;
+  }
+  h3:hover {
+    text-shadow: 0.85px 0.85px 0.85px rgb(0, 0, 0),
+    0.85px 0.85px 0.85px rgb(0, 0, 0);
+  }
+
+  section {
+    color: #009E8E;
+    text-shadow: 0.7px 0.7px 0.7px rgb(0, 0, 0),
+    0.7px 0.7px 0.7px rgb(0, 0, 0);
+    font-family: 'McLaren', cursive;
+    text-align: center;
+  }
+  section:hover {
+    text-shadow: 0.85px 0.85px 0.85px rgb(0, 0, 0),
+    0.85px 0.85px 0.85px rgb(0, 0, 0);
+  }
+
+  p {
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    margin-left: 15%;
+  text-shadow: 0.7px 0.7px 0.7px rgb(0, 0, 0),
+  0.7px 0.7px 0.7px rgb(0, 0, 0);
+  font-family: 'Sunshiney', cursive;
+  }
+  p:hover {
+  text-shadow: 0.85px 0.85px 0.85px rgb(0, 0, 0),
+  0.85px 0.85px 0.85px rgb(0, 0, 0);
+  }
+
+
+footer {
+  font-family: 'Indie Flower', cursive;
+  background-color: black;
+  text-align: center;
+  color:  white;
+  background-size: 100%;
+  border-radius: 25px;
+}
+
+
+img {
+  border-radius: 15px;
+}

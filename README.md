@@ -1,1 +1,0 @@
-bulmann.github.io
